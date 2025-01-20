@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native data fetching and its solution. The initial code lacks proper error handling, causing app crashes when API requests fail. The solution implements robust error handling to gracefully manage network issues and display user-friendly error messages.
